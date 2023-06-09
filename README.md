@@ -31,11 +31,25 @@ If the build fails, the log file detailing the errors is under “YourProject/Sa
 
 1. Create a "Plugins" folder in the  project's root folder.
 2. copy the folder "FgLiveLinkReciever" into the Plugins folder
-3. run projectname.uproject and activate the FgLiveLinkReciever plugin,the restart project.
+3. run projectname.uproject and activate the FgLiveLinkReciever plugin,the restart project.  
 
-![image](https://github.com/FACEGOOD/FgLiveLinkReciever/assets/11623487/d8e36a83-1122-4905-a5d9-c6d84c5b060c)
+![image](https://github.com/FACEGOOD/FgLiveLinkReciever/assets/11623487/d8e36a83-1122-4905-a5d9-c6d84c5b060c)   
 
 4. chose menu "Window -> Vritual Production -> livelink"
-5. input the ip address and port number 
-![image](https://github.com/FACEGOOD/FgLiveLinkReciever/assets/11623487/21b940f4-3d93-4fd6-b044-cc74b1150483)
+5. input the ip address and port number   
+![image](https://github.com/FACEGOOD/FgLiveLinkReciever/assets/11623487/21b940f4-3d93-4fd6-b044-cc74b1150483)   
 6. when has source input,it will create message source automatically
+
+## UDP Protocol
+JSON format
+```
+{
+"Jimmy":{  #subjectName
+    "FrameId" : 1, #frame id ,option
+    "Properties":[
+        {"Name":"A","Value":0.0},  # item name and it's value
+        {"Name":"B","Value":0.0}
+        ]
+    }
+}
+```
