@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FgLiveLinkReceiver\\Module.FgLiveLinkReceiver.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FgLiveLinkReceiver\\FgBlueprintFuncs.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FgLiveLinkReceiver\\JSONLiveLink.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FgLiveLinkReceiver\\JSONLiveLinkSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FgLiveLinkReceiver\\JSONLiveLinkSourceFactory.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\FgLiveLinkReceiver\\SJSONLiveLinkSourceFactory.cpp.obj"
+	]
+}

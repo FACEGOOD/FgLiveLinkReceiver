@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FgLiveLinkReceiver\\Module.FgLiveLinkReceiver.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FgLiveLinkReceiver\\FgBlueprintFuncs.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FgLiveLinkReceiver\\JSONLiveLink.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FgLiveLinkReceiver\\JSONLiveLinkSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FgLiveLinkReceiver\\JSONLiveLinkSourceFactory.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\FgLiveLinkReceiver\\SJSONLiveLinkSourceFactory.cpp.obj"
+	]
+}

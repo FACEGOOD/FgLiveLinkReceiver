@@ -1,8 +1,7 @@
 {
-	"BuildId": "25360045",
+	"BuildId": "33043543",
 	"Modules": 
 	{
-		"FgLiveLinkReciever": "UnrealEditor-FgLiveLinkReciever.dll",
-		"JSONLiveLink": "UnrealEditor-JSONLiveLink.dll"
+		"FgLiveLinkReceiver": "UnrealEditor-FgLiveLinkReceiver.dll"
 	}
 }
