@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ueproject\\fgueproject\\plugins\\fglivelinkreceiver\\source\\fglivelinkreceiver\\private\\jsonlivelink.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ueproject\\fgueproject\\intermediate\\build\\win64\\x64\\fgueprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ueproject\\fgueproject\\plugins\\fglivelinkreceiver\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fglivelinkreceiver\\definitions.fglivelinkreceiver.h",
+            "e:\\ueproject\\fgueproject\\plugins\\fglivelinkreceiver\\source\\fglivelinkreceiver\\private\\jsonlivelink.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

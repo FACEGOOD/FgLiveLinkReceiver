@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FgLiveLinkReceiver.cpp.obj": [
+			"FgBlueprintFuncs.gen.cpp.obj",
+			"FgLiveLinkReceiver.init.gen.cpp.obj",
+			"JSONLiveLinkSourceFactory.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"FgBlueprintFuncs.cpp.obj",
+			"JSONLiveLink.cpp.obj",
+			"JSONLiveLinkSource.cpp.obj",
+			"JSONLiveLinkSourceFactory.cpp.obj",
+			"SJSONLiveLinkSourceFactory.cpp.obj"
+		]
+	}
+}
