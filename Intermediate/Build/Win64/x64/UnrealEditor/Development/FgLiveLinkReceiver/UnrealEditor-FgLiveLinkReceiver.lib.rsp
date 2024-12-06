@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FgLiveLinkReceiver.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UEProject\FGUEPROJECT\Intermediate\Build\Win64\x64\FGUEPROJECTEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\Module.FgLiveLinkReceiver.cpp.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\FgBlueprintFuncs.cpp.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\JSONLiveLink.cpp.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\JSONLiveLinkSource.cpp.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\JSONLiveLinkSourceFactory.cpp.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\SJSONLiveLinkSourceFactory.cpp.obj"
+"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\Default.rc2.res"
+/OUT:"E:\UEProject\FGUEPROJECT\Plugins\FgLiveLinkReceiver\Intermediate\Build\Win64\x64\UnrealEditor\Development\FgLiveLinkReceiver\UnrealEditor-FgLiveLinkReceiver.lib"
